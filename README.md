@@ -5,11 +5,8 @@
 <基礎課程>
     <li>
         1.判斷式練習(if..else/if..elseif)<br>
-        2.迴圈練習(for/while)<br>
-        >>畫星星<br>
-        >>九九乘法表<br>
-        3.陣列練習<br>
-        >>陣列反轉<br>
+        2.迴圈練習(for/while)/畫星星/九九乘法表<br>
+        3.陣列練習(陣列反轉)<br>
         4.日期時間練習(date())<br>
         5.字串轉時間(strtotime())<br>
         6.利用date()呈現日期格式<br>
