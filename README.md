@@ -1,7 +1,9 @@
 ## PHP_Code 
 ## 上課練習
+
+<ul>
 <基礎課程>
-1.判斷式練習(if..else/if..elseif)
+1.判斷式練習(if..else/if..elseif)<>
 2.迴圈練習(for/while)
 >>畫星星
 >>九九乘法表
@@ -11,6 +13,9 @@
 5.字串轉時間(strtotime())
 6.利用date()呈現日期格式
 7.製作線上萬年曆
+
+</ul>
+
 
 ## 課程單元題目練習
 <ul>
@@ -24,6 +29,4 @@
     <li><a href="while.php"></a>while迴圈練習</li>
     <li><a href="star.php"></a>star初次練習</li>
     <li><a href="star_update.php"></a>star練習</li>
-
-
 </ul>
